@@ -1,4 +1,3 @@
-name: exoctk
 channels: !!python/tuple
 - http://ssb.stsci.edu/astroconda
 - defaults
