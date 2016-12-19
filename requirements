@@ -1,0 +1,4 @@
+sphinx>=1.4
+nbsphinx
+ipykernel
+pandoc>=1.15.2
