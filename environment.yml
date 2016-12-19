@@ -2,7 +2,7 @@ name: ExoCTK
 
 dependencies:
     - python=3.5
-    - ipython
+    - IPython
     - sphinx>=1.4
     - ipykernel
     - pip:
