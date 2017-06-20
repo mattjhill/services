@@ -3,6 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+=================
+Software Projects
+=================
+
 Project 1
 =========
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida ut nulla sit amet laoreet. Donec ultricies quis purus nec vulputate. Aenean et accumsan odio, malesuada congue lacus. Integer sit amet rutrum ligula, eget condimentum nibh. Suspendisse a ex venenatis, ornare velit ut, sollicitudin metus. Donec nec enim bibendum, semper lorem a, faucibus lectus. Vestibulum egestas venenatis libero ac dapibus. Etiam ac lacus lobortis, fermentum tellus vel, cursus purus. Nullam non posuere velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur suscipit, dui ac dignissim posuere, arcu ex laoreet turpis, sit amet hendrerit magna dui quis ipsum. Phasellus consequat risus ligula, nec volutpat nunc efficitur ac. Quisque posuere congue dolor at condimentum. 
