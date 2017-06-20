@@ -127,7 +127,7 @@ html_theme_options = {
     'navbar_site_name': "Projects",
 
     # Tab name for the current pages TOC. (Default: "Page")
-    'navbar_pagenav_name': "Page"
+    'navbar_pagenav_name': "Projects"
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
