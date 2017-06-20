@@ -52,9 +52,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Services'
-copyright = '2016, Matt Hill'
-author = 'Matt Hill'
+project = 'Matthew Hill'
+copyright = '2016, Matthew Hill'
+author = 'Matthew Hill'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -121,7 +121,13 @@ html_theme = 'bootstrap'
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-    'bootswatch_theme': "cosmo"
+    'bootswatch_theme': "cosmo",
+
+    # Tab name for entire site. (Default: "Site")
+    'navbar_site_name': "Projects",
+
+    # Tab name for the current pages TOC. (Default: "Page")
+    'navbar_pagenav_name': "Page"
 }
 
 # Add any paths that contain custom themes here, relative to this directory.

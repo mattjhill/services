@@ -8,12 +8,6 @@ Welcome to Services's documentation!
 
 Contents:
 
-.. toctree::
-   :maxdepth: 2
-
-   Test_Notebook
-
-
 
 Indices and tables
 ==================
