@@ -7,4 +7,5 @@ dependencies:
     - ipykernel
     - pip:
         - nbsphinx
+        - sphinx_bootstrap_theme
 #       - dependency_from_pip
